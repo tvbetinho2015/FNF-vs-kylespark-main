@@ -1,59 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "gravetto idle"
+			"fps": 24,
+			"name": "gravetto idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				45,
 				12
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "gravetto left0"
+			"fps": 24,
+			"name": "gravetto left0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-47,
 				-15
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "gravetto down0"
+			"fps": 24,
+			"name": "gravetto down0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				50,
 				31
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "gravetto up0"
+			"fps": 24,
+			"name": "gravetto up0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-34,
 				8
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gravetto right0",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "gravetto right0"
+			"offsets": [
+				12,
+				9
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alt gravetto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				31
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "gravetto up alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				-16
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "gravetto down alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				17
+			],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "gravetto left alt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				9
+			],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "gravetto right alt"
 		}
 	],
 	"no_antialiasing": false,
