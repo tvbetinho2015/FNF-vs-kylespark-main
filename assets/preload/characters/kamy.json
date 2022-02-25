@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "kamy_idle"
+		},
+		{
+			"offsets": [
+				78,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "kamy_down"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "kamy_up"
+		},
+		{
+			"offsets": [
+				-36,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "kamy_right"
+		},
+		{
+			"offsets": [
+				37,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "kamy_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kamy_assets",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "kamy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		0
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

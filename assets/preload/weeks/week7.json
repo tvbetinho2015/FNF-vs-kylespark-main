@@ -1,0 +1,48 @@
+{
+	"storyName": "garoto foda que transforma em 10 aliens",
+	"hideFreeplay": false,
+	"weekBackground": "studio",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"kylespark",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"cosmic-void",
+			"kyles",
+			[
+				120,
+				153,
+				195
+			]
+		],
+		[
+			"clouds",
+			"eyz",
+			[
+				255,
+				215,
+				95
+			]
+		],
+		[
+			"femity",
+			"kamy",
+			[
+				106,
+				255,
+				60
+			]
+		]
+	],
+	"weekName": "kyles"
+}

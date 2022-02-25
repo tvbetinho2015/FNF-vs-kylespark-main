@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.07,
+			"portrait": "kyles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Eita, Voce nao e aquele moleque do jogo\\nFriday Night... Funkin'... Certo?"
+		}
+	]
+}

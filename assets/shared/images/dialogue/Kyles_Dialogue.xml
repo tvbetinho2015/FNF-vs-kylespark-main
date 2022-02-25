@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Kyles_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kyles_static0000" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kyles_static0001" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kyles_static0002" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kyles_static0003" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kyles_static0004" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kyles_static0005" x="0" y="0" width="379" height="565"/>
+	<SubTexture name="Kylesloop0000" x="379" y="0" width="393" height="567"/>
+	<SubTexture name="Kylesloop0001" x="379" y="0" width="393" height="567"/>
+	<SubTexture name="Kylesloop0002" x="772" y="0" width="393" height="567"/>
+	<SubTexture name="Kylesloop0003" x="772" y="0" width="393" height="567"/>
+	<SubTexture name="Kylesloop0004" x="1165" y="0" width="393" height="567"/>
+	<SubTexture name="Kylesloop0005" x="1165" y="0" width="393" height="567"/>
+</TextureAtlas>

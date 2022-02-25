@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_kylespark.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kyles menu0000" x="0" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0001" x="0" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0002" x="481" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0003" x="481" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0004" x="962" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0005" x="962" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0006" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0007" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0008" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0009" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0010" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0011" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0012" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0013" x="1443" y="0" width="481" height="706"/>
+	<SubTexture name="kyles menu0014" x="1443" y="0" width="481" height="706"/>
+</TextureAtlas>
