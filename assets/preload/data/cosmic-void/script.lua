@@ -12,32 +12,15 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
 	if tag == 'startDialogue' then -- Timer completed, play dialogue
-		triggerEvent('startDia')
-		startDialogue('dialogue', '');
+		startDialogue('dialogue', 'breakfast');
 	end
 end
 
 -- Dialogue (When a dialogue is finished, it calls startCountdown again)
 function onNextDialogue(count)
 	-- triggered when the next dialogue line starts, 'line' starts with 1
-	speak(count+1)
 end
 
 function onSkipDialogue(count)
-	stopSound('kyles1')
-end
-
-function speak(shit)
-	stopSound('kyles1')
-	playSound('cosmic-void/' .. shit,1,'kyles1')
-
-end
-
-function onEvent(n,v1,v2)
-
-	if n == 'startDia' then
-		
-		speak(1)
-	end
-
+	-- triggered when you press Enter and skip a dialogue line that was still being typed, dialogue line starts with 1
 end

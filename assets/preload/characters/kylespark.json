@@ -1,73 +1,73 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "kyles_idle"
+			"fps": 24,
+			"name": "kyles_idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				83,
 				5
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "kyles_left"
+			"fps": 24,
+			"name": "kyles_left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				5,
 				-48
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "kyles_down"
+			"fps": 24,
+			"name": "kyles_down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				30,
 				4
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "kyles_up"
+			"fps": 24,
+			"name": "kyles_up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-53,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "kyles_right"
+			"fps": 24,
+			"name": "kyles_right",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/kyles_assets",
 	"position": [
 		0,
-		60
+		30
 	],
 	"healthicon": "kyles",
 	"flip_x": false,
 	"healthbar_colors": [
-		239,
-		239,
-		239
+		95,
+		120,
+		160
 	],
 	"camera_position": [
 		0,
