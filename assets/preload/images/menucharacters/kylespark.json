@@ -1,10 +1,10 @@
 {
+	"idle_anim": "kyles_M_idle",
 	"confirm_anim": "M Dad Idle",
-	"idle_anim": "kyles menu",
 	"position": [
-		173,
-		174
+		174,
+		170
 	],
-	"scale": 0.55,
+	"scale": 0.5,
 	"image": "Menu_kylespark"
 }
